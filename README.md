@@ -68,21 +68,20 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:Vineela Shaik
  RegisterNumber: 212223040243
-
-''' 
-
-module exp1(a,b,c,d,e,x,y,z);
-input a,b;
-output c,d,e,x,y,z;
-and(c,a,b);
-or(d,a,b);
-xor(e,a,b);
-nand(x,a,b);
-nor(y,a,b);
-xnor(z,a,b);
-endmodule
-
-'''
+<br>
+<br>
+module exp1(a,b,c,d,e,x,y,z);<br>
+input a,b;<br>
+output c,d,e,x,y,z;<br>
+and(c,a,b);<br>
+or(d,a,b);<br>
+xor(e,a,b);<br>
+nand(x,a,b);<br>
+nor(y,a,b);<br>
+xnor(z,a,b);<br>
+endmodule<br>
+<br>
+<br>
  
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-03-14 at 21 49 55_76ff7873](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/e65b5e58-22c9-4c20-95b0-c729106d396f)
@@ -92,8 +91,7 @@ endmodule
 ![Screenshot 2024-03-14 212501](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/5b9261a9-3c06-4a8f-aee4-ca5de0b351bd)
 
 **RTL**
-
-     ![Screenshot 2024-03-14 212101](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/1c4ece56-94ae-4840-b241-61dd4a06bbe6)
+![Screenshot 2024-03-14 212101](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/1c4ece56-94ae-4840-b241-61dd4a06bbe6)
 
 **Result:**
 Thus the different digital IC's are studied and the truth table for different logic gates are verified
