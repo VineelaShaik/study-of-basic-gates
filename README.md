@@ -89,6 +89,7 @@ endmodule<br>
 ![WhatsApp Image 2024-03-14 at 21 49 55_f72b0c92](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/2b11f4d9-a8cb-45c0-bb83-9617800d3311)
 
 **RTL realization Output:** 
+
 ![Screenshot 2024-03-14 212501](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/5b9261a9-3c06-4a8f-aee4-ca5de0b351bd)
 
 **RTL**
