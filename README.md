@@ -84,7 +84,6 @@ endmodule<br>
 *Developed by:Vineela Shaik<br>*
 *RegisterNumber: 212223040243<br>*
 
- 
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-03-14 at 21 49 55_76ff7873](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/e65b5e58-22c9-4c20-95b0-c729106d396f)
 ![WhatsApp Image 2024-03-14 at 21 49 55_f72b0c92](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/2b11f4d9-a8cb-45c0-bb83-9617800d3311)
