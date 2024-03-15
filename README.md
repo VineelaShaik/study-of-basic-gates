@@ -91,8 +91,8 @@ endmodule<br>
 **RTL realization Output:** 
 ![Screenshot 2024-03-14 212501](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/5b9261a9-3c06-4a8f-aee4-ca5de0b351bd)
 
-
 **RTL**
+
 ![Screenshot 2024-03-14 212101](https://github.com/VineelaShaik/study-of-basic-gates/assets/144340862/1c4ece56-94ae-4840-b241-61dd4a06bbe6)
 
 **Result:**
