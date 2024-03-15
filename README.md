@@ -81,8 +81,8 @@ endmodule<br>
 <br>
 <br>
 
-Developed by:Vineela Shaik<br>
-RegisterNumber: 212223040243<br>
+*Developed by:Vineela Shaik<br>*
+*RegisterNumber: 212223040243<br>*
 
  
 **Logic symbol & Truthtable**
